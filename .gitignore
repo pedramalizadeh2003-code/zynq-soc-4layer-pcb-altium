@@ -1,0 +1,17 @@
+# Altium Designer Auto-generated files
+History/
+*.History/
+*.Zip
+*.htm
+*.html
+*.log
+*.rep
+*.drc
+*.Preview*
+__Previews/
+Project Logs*/
+Project Outputs*/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
